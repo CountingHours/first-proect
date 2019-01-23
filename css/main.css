@@ -1,0 +1,15 @@
+body, html{
+	margin:0;
+	padding: 0;
+	background: #ABB1BA;
+}
+.conteiner{
+	width: 100%;
+	height: 100%;
+	padding: 5% 0;
+	text-align: center;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
